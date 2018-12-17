@@ -82,7 +82,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     ARU Documentary
-                    SERBI School
+                    SERBI 
                     Documentary
                 </div>
 
