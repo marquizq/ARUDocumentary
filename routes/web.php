@@ -19,6 +19,11 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
+Route::get('/service', function () {
+    return view('service');
+});
+
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');

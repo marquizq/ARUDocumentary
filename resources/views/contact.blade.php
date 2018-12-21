@@ -4,7 +4,7 @@
 <head>
 
 	<h1> hello world </h1>
-	<title></title>
+	<title> contact </title>
 
 </head>
 
