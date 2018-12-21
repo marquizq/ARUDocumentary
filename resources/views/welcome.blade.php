@@ -10,7 +10,7 @@
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet" type="text/css">
 
         <!-- Styles -->
-        <style>
+        <style> 
             html, body {
                 background-color: #fff;
                 color: #636b6f;
@@ -64,6 +64,49 @@
         </style>
     </head>
     <body>
+
+         <div class="topnav">
+                  <a class="active" href="#home">Info</a>
+                    <a href="#news">News</a>
+                <a href="#contact">Service</a>
+                <a href="#about">About Us</a>
+            
+                </div> 
+      <style type="text/css">
+
+                    /* Add a black background color to the top navigation */
+    .topnav {
+    background-color: #333;
+    overflow: hidden;
+    }
+
+    /* Style the links inside the navigation bar */
+    .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    }
+
+    /* Change the color of links on hover */
+    .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+    }
+
+    /* Add a color to the active/current link */
+    .topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+    }
+
+     </style>
+
+
+
+
         <div class="flex-center position-ref full-height">
             @if (Route::has('login'))
                 <div class="top-right links">
@@ -83,8 +126,10 @@
                 <div class="title m-b-md">
                     ARU Documentary
                     SERBI School
-                    Latest Documentary
+                    
                 </div>
+
+                
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
@@ -94,7 +139,31 @@
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
+
             </div>
+
+            </div>
+
+        <div class="footer">
+        <p>@2019</p>
+
         </div>
+
+        <style>
+    .footer {
+
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 8%;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    }
+
+    </style>
+
     </body>
-</html>
+
+    </html>
