@@ -144,7 +144,7 @@
             </div>
 
         <div class="footer">
-        <p>@2019</p>
+        <p>@2019 Jesca Kapingu</p>
 
         </div>
 
