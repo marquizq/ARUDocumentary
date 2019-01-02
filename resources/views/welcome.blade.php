@@ -124,7 +124,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    ARU Documentary SERBI
+                    ARU Documentary CSM
                     
                 </div>
 
