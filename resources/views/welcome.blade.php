@@ -125,13 +125,10 @@
 
             <div class="content">
                 <div class="title m-b-md">
-<<<<<<< HEAD
+
                     ARU Documentary CSM
                     
-=======
-                    ARU Documentary SERBI
 
->>>>>>> 4079e44fc26f9b8eaffe5f5320496b8b3cbc6294
                 </div>
 
 
