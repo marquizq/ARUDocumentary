@@ -10,7 +10,7 @@
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet" type="text/css">
 
         <!-- Styles -->
-        <style> 
+        <style>
             html, body {
                 background-color: #fff;
                 color: #636b6f;
@@ -67,11 +67,12 @@
 
          <div class="topnav">
                   <a class="active" href="#home">Info</a>
-                    <a href="#news">News</a>
-                <a href="#contact">Service</a>
+                <a href="#news">News</a>
+                <a href="/contact">contact</a>
+                <a href="/service">Service</a>
                 <a href="#about">About Us</a>
-            
-                </div> 
+
+                </div>
       <style type="text/css">
 
                     /* Add a black background color to the top navigation */
@@ -124,11 +125,16 @@
 
             <div class="content">
                 <div class="title m-b-md">
+<<<<<<< HEAD
                     ARU Documentary CSM
                     
+=======
+                    ARU Documentary SERBI
+
+>>>>>>> 4079e44fc26f9b8eaffe5f5320496b8b3cbc6294
                 </div>
 
-                
+
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
