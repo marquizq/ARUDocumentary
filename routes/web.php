@@ -22,6 +22,16 @@ Route::get('/contact', function () {
 Route::get('/service', function () {
     return view('service');
 });
+Route::get('/news', function () {
+    return view('news');
+});
+
+Route::get('/About Us', function () {
+    return view('About Us');
+});
+Route::get('/Info', function () {
+    return view('Info');
+});
 
 
 Auth::routes();

@@ -66,11 +66,12 @@
     <body>
 
          <div class="topnav">
-                  <a class="active" href="#home">Info</a>
-                <a href="#news">News</a>
+                  <a class="active" href="/Info">Info</a>
+                <a href="/news">News</a>
                 <a href="/contact">contact</a>
                 <a href="/service">Service</a>
-                <a href="#about">About Us</a>
+                <a href="/About Us">About Us</a>
+
 
                 </div>
       <style type="text/css">
@@ -127,7 +128,7 @@
                 <div class="title m-b-md">
 
                     ARU Documentary CSM
-                    
+
 
                 </div>
 
