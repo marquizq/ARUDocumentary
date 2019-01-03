@@ -1,33 +1,21 @@
-<!DOCTYPE html>
+@extends('layouts.app1')
+@section('content')
 
-<html>
-<head>
+<div class="container">
+	<div class="our-contact">
+		<h4>Phone number</h2>
+		<ul class="pnumber">
+			<li>+255(0)752 307887</li>
+			<li>+255(0)742 859904</li>
+			<li>+255(0)654 275921</li>
+			<li>+255(0)715 599346</li>
+		</ul> <br>
+		<h4>e-mail</h2>
+		<ul class="pnumber">
+			<li>csm-aru@gmail.com</li>
+		</ul>
 
-	<h1> hello world </h1>
-	<title> contact </title>
-
-</head>
-
-<body>
-	
-	<div class="footer">
-	<p>@2019 Jesca Kapingu</p>
 
 	</div>
-
-	<style>
-.footer {
-
-position: fixed;
-left: 0;
-bottom: 0;
-height: 8%;
-width: 100%;
-background-color: black;
-color: white;
-text-align: center;
-}
-
-</style>
-</body>
-</html>
+</div>
+@endsection
