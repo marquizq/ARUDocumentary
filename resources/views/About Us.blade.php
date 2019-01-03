@@ -2,6 +2,9 @@
 @section('content')
 
 <style media="screen">
+p{
+  text-align: justify;
+}
   .info{
     font-size: 20px;
   }
