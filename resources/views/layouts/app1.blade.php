@@ -38,7 +38,7 @@
 
 
         <div class="footer">
-        <p>@2019 CSM</p>
+        <p>&copy;2019 CSM</p>
 
         </div>
 
