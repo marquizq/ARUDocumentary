@@ -13,9 +13,9 @@ p{
   <div class="about">
     <h1>About CSM Department</h1><br>
     <p class="info">The Computer Systems and Mathematics (CSM) Department It works under School of Earth Sciences Real estate Business and Informatics (SERBI).
-      It was established on ........... to address the increasing demand of ICT experts in the country by strengthening
+      CSM was established to address the increasing demand of ICT experts in the country by strengthening
       the Ardhi University’s teaching, research and public service in the ICT-related disciplines through a more efficient utilization of the available
-      human and physical resources.The CSM Department is located at the Old Library Building.</p>
+      human and physical resources.</p>
     </div>
 
     <div class="vision">
