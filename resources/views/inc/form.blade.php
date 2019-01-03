@@ -29,7 +29,6 @@
 </head>
 <body>
 
-
 	<div class="container-contact100">
 		<div class="wrap-contact100">
 			<form class="contact100-form validate-form">
@@ -164,9 +163,6 @@
 	</script>
 
   <style media="screen">
-
-
-
 
 
 @font-face {

@@ -19,9 +19,7 @@
         <li class="nav-item">
           <a class="nav-link" href="/news">News</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/service">Services</a>
-        </li>
+        
         <li class="nav-item">
           <a class="nav-link" href="/About Us">About Us</a>
         </li>
