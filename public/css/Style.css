@@ -1,38 +1,5 @@
-ul {
-    font-family: sans-serif;
-    list-style-type: none;
-    padding: 0;
-   	overflow: hidden;
-    background-color: black;
-    margin-top: 0;
-    width: 100%;
-    position: relative;
-    height: 60px;
-		}
-		
- ul li {
-	float:right;
-}
 
-ul li a {
-    
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 14px;
-    text-decoration: none;
-    font-size: 22px;
-}
-li a:hover {
 
-    background-color: deepskyblue;
-    color: white;
-}
-
-p{
-    font-size: 20px;
-    color: maroon;
-}
 
 caption {
     font-size: 20px;
@@ -54,9 +21,9 @@ caption {
     border-spacing: 4px;
     box-shadow: 0 15px 25px rgba(0,0,0,0.5);
     border-radius: 10px;
-    
-    
-    
+
+
+
 }
 
 
@@ -65,7 +32,7 @@ caption {
     position: static;
     border:1px solid black;
     background: deepskyblue;
-    
+
     box-sizing: border-box;
     border-collapse: collapse;
     color: #fff;
@@ -79,7 +46,7 @@ caption {
     font-size: 20px;
     width:60%;
     height:40%;
-        
+
 }
 
 
@@ -97,7 +64,7 @@ caption {
 
 
 #bck{
-    
+
     background-image: url(1.jpg);
     background-size: cover;
 }
@@ -192,12 +159,12 @@ img {vertical-align: middle;}
 }
 
 @-webkit-keyframes fade {
-  from {opacity: .4} 
+  from {opacity: .4}
   to {opacity: 1}
 }
 
 @keyframes fade {
-  from {opacity: .4} 
+  from {opacity: .4}
   to {opacity: 1}
 }
 
