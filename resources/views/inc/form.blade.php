@@ -57,6 +57,11 @@
 					<input id="phone" class="input100" type="text" name="phone" placeholder="Eg. +1 800 000000">
 					<span class="focus-input100"></span>
 				</div>
+				<label class="label-input100" for="gender">Gender</label>
+				<div class="wrap-input100">
+					<input id="phone" class="input100" type="text" name="phone" placeholder="Eg. +1 800 000000">
+					<span class="focus-input100"></span>
+				</div>
 
 				<label class="label-input100" for="message">Message *</label>
 				<div class="wrap-input100 validate-input" data-validate = "Message is required">
