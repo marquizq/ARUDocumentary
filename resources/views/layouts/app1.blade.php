@@ -34,7 +34,7 @@
 
     @yield('content')
 
-    @if(Request::is('/'))
+    @if(Request::is('/Info'))
     @include('inc.home2')
     @endif
         <div class="footer">
