@@ -9,7 +9,7 @@
 
     <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
       <!-- Brand/logo -->
-      <a class="navbar-brand" href="/">CSM</a>
+      <a class="navbar-brand"><img src="{{asset('/storage/me.jpg')}}" width="100px" height="50px"/></a>
 
       <!-- Links -->
       <ul class="navbar-nav" >
@@ -19,7 +19,7 @@
         <li class="nav-item">
           <a class="nav-link" href="/news">News</a>
         </li>
-        
+
         <li class="nav-item">
           <a class="nav-link" href="/About Us">About Us</a>
         </li>
@@ -34,7 +34,9 @@
 
     @yield('content')
 
-
+    @if(Request::is('/'))
+    @include('inc.home2')
+    @endif
         <div class="footer">
         <p>&copy;2019 CSM</p>
 
