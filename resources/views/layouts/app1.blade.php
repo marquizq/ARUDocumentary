@@ -9,7 +9,7 @@
 
     <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
       <!-- Brand/logo -->
-      <a class="navbar-brand"><img src="{{asset('/storage/me.jpg')}}" width="100px" height="50px"/></a>
+      <a class="navbar-brand" href="/"><img src="{{asset('/storage/csm.png')}}" width="100px" height="50px"/></a>
 
       <!-- Links -->
       <ul class="navbar-nav" >
